@@ -75,7 +75,7 @@ Configurando Nome global do seu GIT:
 ```
  git config --global user.name "Your Name"
 ```
-Configurando Nome global do seu GIT:
+Configurando Email global do seu GIT:
 ```
 git config --global user.email "you@example.com"
 ```
