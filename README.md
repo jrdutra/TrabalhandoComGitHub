@@ -66,6 +66,7 @@ sudo chmod 777 commit.sh
 Nesse ponto basta clicar no arquivo que ele executa todos os procedimentos de adicionar, commitar e enviar.
 
 **Possível problema**
+
 Pode acontecer do seu linux não estar configurado para abrir o arquivo .sh com o terminal, muitas das vezes ele abre em um programa editor de texto.
 Para resolver esse problema, você precisa abrir esse arquivo com o terminal e setar isso como padrão, isso varia de versão de linux para linux.
 
