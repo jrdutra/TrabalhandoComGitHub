@@ -22,5 +22,9 @@ sudo apt-get install git
 
 ## Clonando o repositório na máquina
 
-Para clonar o repositório, você precisar pegar o link no repositório a ser clonado no site 
-do github ( [Exmeplo deste repositório](https://github.com/jrdutra/TrabalhandoComGitHub) )
+### Passos
+
++ Para clonar o repositório, você precisar pegar o link no repositório a ser clonado no site 
+do github ( [Exmeplo deste repositório](https://github.com/jrdutra/TrabalhandoComGitHub) ).
++ Abrir o terminal em uma pasta onde deseja que o repositório seja clonado.
++ Digitar o seguinte comando(Nesse caso mostro o exemplo para esse repositório): ```git clone https://github.com/jrdutra/TrabalhandoComGitHub```
