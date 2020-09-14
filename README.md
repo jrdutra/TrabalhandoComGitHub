@@ -42,7 +42,7 @@ do github ( [Exmeplo deste repositório](https://github.com/jrdutra/TrabalhandoC
 ### Passos
 
 + Abra o terminal dentro da pasta do repositório clonado.
-+ Para adicionar as modificações: ```git add --all```
++ Para adicionar as modificações: ```git add --all``` ou para remover: ```git rm file.txt```
 + Para comitar as modificações adicionadas: ```git commit -m "Sua Mensagem"
 + Para enviar as modificações comitadas: ```git push```
 
